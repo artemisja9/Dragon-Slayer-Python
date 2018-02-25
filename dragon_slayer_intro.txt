@@ -1,0 +1,14 @@
+The kingdom of Lali has lived peacefully for years. One day a dark shape
+covered the sky. The villagers of Lali looked up when the shape let out
+a loud roar. It was a dragon! Dragons are known for their greed and 
+violence so the King and Queen summoned their bravest knights together. 
+The knights led a valiant attack against the dragon but were unsuccessful.
+As a squire you were not part of the first attack, however, now you want
+to help. You decide to go into town.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Welcome to Dragonslayer!
+There are four items necessary to slay the dragon and the villagers are
+the key to gaining these items. Once you choose to slay the dragon there
+is no going back.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
